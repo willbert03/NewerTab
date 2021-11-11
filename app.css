@@ -18,10 +18,10 @@
   --iconsize: 3vh;
 
   /* Light theme  */
-  --accent: #D4D4D4; /* Hover color */
-  --bg: #2C2C2C; /* Background color */
-  --sbg: #3B3B3B; /* Cards color */
-  --fg: #D4D4D4; /* Foreground color */
+  --accent: #2C2C2C; /* Hover color */
+  --bg: #D4D4D4; /* Background color */
+  --sbg: #D4D4D4; /* Cards color */
+  --fg: #3B3B3B; /* Foreground color */
   --sfg: #3B3B3B; /* Secondary Foreground color */
 
   /* Image background  */
